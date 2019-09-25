@@ -1,5 +1,5 @@
 function MonthlyEmail() {
-  var email = 'Matthew@walleraccounting.com'
+  var email = 'MY EMAIL'
   var subj = 'Get new spreadsheet link for WC'
   var msg = 'Send message into signal for new link'
   
